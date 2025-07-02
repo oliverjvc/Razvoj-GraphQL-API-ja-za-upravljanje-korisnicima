@@ -6,6 +6,8 @@ Ovaj projekat predstavlja jednostavan GraphQL API za upravljanje korisnicima, ra
 
 - Dodavanje korisnika (`addUser`)
 - Dohvatanje svih korisnika (`users`)
+- Brisanje korisnika iz baze (`deleteUser`)
+- Validacija unosa korisnika
 - Skladištenje korisnika u bazu podataka
 
 ## 🧰 Korišćene tehnologije
